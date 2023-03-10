@@ -11,8 +11,8 @@
 </div>
 ### :woman_technologist: About Me :
 I am data analyst.
- -  :briefcase: Currently working as Senior analyst in the field of transport and infrastructure
- -  :chart_with_upwards_trend: Make econometric models using Python, Eviews, Gretl
+- :briefcase: Currently working as Senior analyst in the field of transport and infrastructures.
+- :chart_with_upwards_trend: Make econometric models using Python, Eviews, Gretl.
  -  :computer: Work with large databases
  -  :dart: Curious about the reasons for everything
 
