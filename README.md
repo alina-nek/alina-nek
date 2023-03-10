@@ -9,9 +9,7 @@
     Hey everyone 🙋🏻‍♀️
   </h1>
 </div>
-:woman_technologist: About Me:
-
-I am data analyst.
+:woman_technologist: I am data analyst
 
 - :briefcase: Currently working as Senior analyst in the field of transport and infrastructures.
 
