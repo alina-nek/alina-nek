@@ -17,7 +17,7 @@
 
 - :computer: Work with large databases
 
-- :dart: Curious about the reasons for everything
+- :dart: Curious about the reasons of everything
 
 Contact me by LinkedIn :arrow_upper_right:
 
