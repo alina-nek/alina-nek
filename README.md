@@ -1,5 +1,7 @@
+<div id="header" align="center">
+  <img src="https://ru.pinterest.com/pin/919086236429954500/" width="100"/>
+</div>
 ### Hi there 👋
-
 <!--
 **alina-nek/alina-nek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
