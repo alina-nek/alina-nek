@@ -19,7 +19,7 @@
 
 - :dart: Curious about the reasons for everything
 
-Contact me by LinkedIn :arrow_up:
+Contact me by LinkedIn :arrow_upper_right:
 <!--
 **alina-nek/alina-nek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
